@@ -1,4 +1,4 @@
-#CodSoft
+##CodSoft
 This is a github repository to showcase my tasks that i have completed during my CodSoft internship
 #Portfolio
 The Portfolio repository was task 1 of my internship it is my portfolio website that showcases my skills and porjects 
